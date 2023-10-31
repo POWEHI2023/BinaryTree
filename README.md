@@ -1,2 +1,2 @@
 # BinaryTree
-Binary tree data structs
+Binary tree data structures
